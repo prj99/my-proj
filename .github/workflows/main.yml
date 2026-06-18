@@ -1,1 +1,6 @@
+# Grant permissions required to deploy to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
